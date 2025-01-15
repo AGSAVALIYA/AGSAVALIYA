@@ -36,7 +36,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agsavaliya&show_icons=true&locale=en&layout=compact" alt="agsavaliya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agsavaliya&" alt="agsavaliya" /></p>
-
+<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agsavaliya&theme=midnight-purple&show_icons=true\&include_all_commits=true\&border_color=7f3ace" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agsavaliya&label=Profile%20views&color=ff7b00&style=flat" alt="agsavaliya" /> </p>
